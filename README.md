@@ -1,4 +1,4 @@
-# Competitive-Programming---CSE110-Workshop
+# Competitive-Programming - CSE110-Workshop
 
 ## Contest Link
 
